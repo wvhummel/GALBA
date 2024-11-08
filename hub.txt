@@ -1,0 +1,6 @@
+hub hub_whe
+shortLabel hub_whe
+longLabel wheat
+genomesFile genomes.txt
+email william.hummel@jacks.sdstate.edu
+descriptionUrl aboutHub.html
